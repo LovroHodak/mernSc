@@ -1,0 +1,29 @@
+// GLOOBAL
+npm init
+(package.json = "main": "server.js", before "main": "index.js")
+npm i express mongoose dotenv
+npm i --save-dev concurrently
+
+node backend/server.js (after i set up server in server.js)
+
+git init
+
+EDit scripts and run:
+npm run dev
+
+(to check if mongo atlas is connected)
+node backend/server.js
+
+
+
+
+// BACKEND
+
+
+
+// FRONTEND
+npx create-react-app .
+npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension
+
+
+
